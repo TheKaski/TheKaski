@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Emil Kaskikallio | TheKaski 
 <!--
 **TheKaski/TheKaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My stats ](https://github-readme-stats.vercel.app/api/?username=TheKaski&show_icons=true&theme=dracula&layout=compact)](https://github.com/TheKaski/github-readme-stats)
+
+[![My top languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaski&show_icons=true&theme=dracula&layout=compact)](https://github.com/TheKaski/github-readme-stats)
+
