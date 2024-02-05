@@ -1,19 +1,11 @@
-### Emil Kaskikallio | TheKaski 
-<!--
-**TheKaski/TheKaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My stats](https://github-readme-stats.vercel.app/api/?username=TheKaski&custom_title=Stats&show_icons=true&theme=radical&layout=compact&hide=prs,issues)](https://github.com/TheKaski/github-readme-stats)
 
-Here are some ideas to get you started:
+[![My top languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaski&show_icons=true&theme=radical&layout=compact)](https://github.com/TheKaski/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![My stats ](https://github-readme-stats.vercel.app/api/?username=TheKaski&show_icons=true&theme=dracula&layout=compact)](https://github.com/TheKaski/github-readme-stats)
+#### 👨‍💻 Currently working on
+👾 ![TheKaski/ReactThree](https://github.com/TheKaski/ReactThree) - JavaScript game project using CANNON.js and Three.js with React.js
 
-[![My top languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaski&show_icons=true&theme=dracula&layout=compact)](https://github.com/TheKaski/github-readme-stats)
+#### ✅ Check my other Projects
+📧 ![TheKaski/CoverLetterGenerator](https://github.com/TheKaski/CoverLetterGenerator) - Developped for filling cover letters
 
+⏱ ![TheKaski/SoftwareTestingProject](https://github.com/TheKaski/SoftwareTestingProject) - School project around testing and CI pipelines
