@@ -11,3 +11,6 @@
 📧 ![TheKaski/CoverLetterGenerator](https://github.com/TheKaski/CoverLetterGenerator) - Developped for filling cover letters
 
 ⏱ ![TheKaski/SoftwareTestingProject](https://github.com/TheKaski/SoftwareTestingProject) - School project around testing and CI pipelines
+
+#### Want to reach me? Check out my blog on Instagram:
+📷 [Blog](https://www.instagram.com/emilechoes/)
