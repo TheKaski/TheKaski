@@ -1,6 +1,6 @@
 <div style="float: left;">
-  <img src="https://github-readme-stats.vercel.app/api/?username=TheKaski&custom_title=Stats&show_icons=false&theme=radical&layout=compact&hide=prs,issues"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaski&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=TheKaski&custom_title=Stats&title_color=ffffff&show_icons=true&theme=radical&layout=compact&hide_border=true&ring_color=03cea4&text_color=ffffff&bg_color=45,000000,871b92&hide=prs,issues"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaski&theme=radical&title_color=ffffff&layout=compact&hide_border=true&text_color=ffffff&bg_color=45,871b92,000000" />
 </div>
 <h4>🧰 My toolbox </h4>
 <p>
