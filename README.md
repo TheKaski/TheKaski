@@ -32,6 +32,9 @@
 
 🚴🏼‍♀️ ![TheKaski/Cycling_Computer](https://github.com/TheKaski/cycling_computer) - Arduino project for displaying metrics while cycling
 
+🚴🏼‍♀️ ![TheKaski/ErlChat](https://github.com/TheKaski/ErlChat) - Simple chat room created as web application with Erlang similar to WhatsApp.
+
+
 #### ✅ Check my other Projects
 📧 ![TheKaski/CoverLetterGenerator](https://github.com/TheKaski/CoverLetterGenerator) - Developped for filling cover letters
 
