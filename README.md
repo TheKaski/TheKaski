@@ -30,7 +30,7 @@
 #### 👨‍💻 Currently working on
 👾 ![TheKaski/ReactThree](https://github.com/TheKaski/ReactThree) - JavaScript game project using CANNON.js and Three.js with React.js
 
-🚴🏼‍♀️ ![TheKaski/Cycling_Computer](https://github.com/TheKaski/cycling_computer) - Arduino cycling speedo with hands on learning goal to develop support for different display types from scratch
+🚴🏼‍♀️ ![TheKaski/Cycling_Computer](https://github.com/TheKaski/cycling_computer) - Arduino project for displaying metrics while cycling
 
 #### ✅ Check my other Projects
 📧 ![TheKaski/CoverLetterGenerator](https://github.com/TheKaski/CoverLetterGenerator) - Developped for filling cover letters
