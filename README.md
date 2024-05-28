@@ -28,7 +28,7 @@
 </p>
 
 #### 👨‍💻 Currently working on
-👾 ![TheKaski/ReactThree](https://github.com/TheKaski/ReactThree) - JavaScript game project using CANNON.js and Three.js with React.js
+👾 ![TheKaski/ReactThree](https://github.com/TheKaski/ReactThree) - JavaScript 3D driving game. Implemented using CANNON.js and Three.js combined with React.js
 
 🚴🏼‍♀️ ![TheKaski/Cycling_Computer](https://github.com/TheKaski/cycling_computer) - Arduino project for displaying metrics while cycling
 
