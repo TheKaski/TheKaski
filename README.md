@@ -30,9 +30,9 @@
 #### 👨‍💻 Currently working on
 👾 ![TheKaski/ReactThree](https://github.com/TheKaski/ReactThree) - JavaScript 3D driving game. Implemented using CANNON.js and Three.js combined with React.js
 
-🚴🏼‍♀️ ![TheKaski/Cycling_Computer](https://github.com/TheKaski/cycling_computer) - Arduino project for displaying metrics while cycling
-
 #### ✅ Check my other Projects
+🚴🏼‍♀️ ![TheKaski/Cycling_Computer](https://github.com/TheKaski/cycling_computer) - Arduino project for displaying metrics while cycling and communicating over BLE with common fitness applications
+
 📲 ![TheKaski/ErlChat](https://github.com/TheKaski/ErlChat) - Simple chat room created as web application with Erlang similar to WhatsApp.
 
 📧 ![TheKaski/CoverLetterGenerator](https://github.com/TheKaski/CoverLetterGenerator) - Developped for filling cover letters
