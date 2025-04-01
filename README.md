@@ -11,6 +11,8 @@
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-45b8d8?style=flat-square&logo=Arduino&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=Python&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="csharp" src="https://img.shields.io/badge/-Csharp-45b8d8?style=flat-square&logo=c&logoColor=white" />
+  <img alt="rust" src="https://img.shields.io/badge/-rust-45b8d8?style=flat-square&logo=Rust&logoColor=white" />
   <img alt="erlang" src="https://img.shields.io/badge/-Erlang-45b8d8?style=flat-square&logo=erlang&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-html5-764ABC?style=flat-square&logo=Html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-764ABC?style=flat-square&logo=CSS3&logoColor=white" />
