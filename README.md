@@ -29,9 +29,6 @@
   <img alt="Home Assistant" src="https://img.shields.io/badge/-Home Assistant-F05032?style=flat-square&logo=Home Assistant&logoColor=white" />
 </p>
 
-#### 👨‍💻 Currently working on
-👾 ![TheKaski/ReactThree](https://github.com/TheKaski/ReactThree) - JavaScript 3D driving game. Implemented using CANNON.js and Three.js combined with React.js
-
 #### ✅ Check my other Projects
 🚴🏼‍♀️ ![TheKaski/Cycling_Computer](https://github.com/TheKaski/cycling_computer) - Arduino project for displaying metrics while cycling and communicating over BLE with common fitness applications
 
